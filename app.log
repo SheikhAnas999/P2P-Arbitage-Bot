@@ -1,0 +1,185 @@
+2025-04-06 22:59:25,225 - INFO - Starting crypto P2P price comparison for arbitrage opportunities.
+2025-04-06 22:59:25,226 - INFO - Fetching binance prices for NGN.
+2025-04-06 22:59:27,796 - INFO - No offers found for NGN on binance.
+2025-04-06 22:59:27,796 - INFO - Fetching binance prices for USD.
+2025-04-06 22:59:31,266 - INFO - binance USD BUY: 0.994 USD (≈0.994 USD), Merchant=P2P-bo
+2025-04-06 22:59:31,267 - INFO - binance USD SELL: 1.1 USD (≈1.100 USD), Merchant=Cambios-inter
+2025-04-06 22:59:31,267 - INFO - Fetching binance prices for EUR.
+2025-04-06 22:59:38,072 - INFO - binance EUR BUY: 0.918 EUR (≈1.008 USD), Merchant=YYGroup
+2025-04-06 22:59:38,074 - INFO - binance EUR SELL: 0.96 EUR (≈1.054 USD), Merchant=Phoenix_Change
+2025-04-06 22:59:38,075 - INFO - Fetching binance prices for BRL.
+2025-04-06 22:59:41,461 - INFO - binance BRL BUY: 5.894 BRL (≈1.042 USD), Merchant=Sr_MENESES-3011
+2025-04-06 22:59:41,461 - INFO - binance BRL SELL: 5.884 BRL (≈1.040 USD), Merchant=MAVIC-CAMBIOS
+2025-04-06 22:59:41,462 - INFO - Fetching binance prices for KES.
+2025-04-06 22:59:43,404 - INFO - binance KES BUY: 129.39 KES (≈1.002 USD), Merchant=FOMO_Depot
+2025-04-06 22:59:43,405 - INFO - binance KES SELL: 134.6 KES (≈1.042 USD), Merchant=tiero
+2025-04-06 22:59:43,405 - INFO - Fetching binance prices for GBP.
+2025-04-06 22:59:45,184 - INFO - binance GBP BUY: 0.696 GBP (≈0.901 USD), Merchant=REZIG444
+2025-04-06 22:59:45,185 - INFO - binance GBP SELL: 0.869 GBP (≈1.124 USD), Merchant=-JOJO-FASTandPro
+2025-04-06 22:59:45,186 - INFO - Fetching binance prices for CAD.
+2025-04-06 22:59:47,639 - INFO - binance CAD BUY: 1.442 CAD (≈1.015 USD), Merchant=Servira
+2025-04-06 22:59:47,639 - INFO - binance CAD SELL: 1.425 CAD (≈1.003 USD), Merchant=CryptoExh
+2025-04-06 22:59:47,640 - INFO - Fetching binance prices for AUD.
+2025-04-06 22:59:49,505 - INFO - binance AUD BUY: 1.666 AUD (≈1.014 USD), Merchant=M-Verified-Trader
+2025-04-06 22:59:49,506 - INFO - binance AUD SELL: 1.98 AUD (≈1.205 USD), Merchant=FIKRI798
+2025-04-06 22:59:49,507 - INFO - Fetching paxful prices for NGN.
+2025-04-06 23:00:42,271 - INFO - Starting crypto P2P price comparison for arbitrage opportunities.
+2025-04-06 23:00:42,271 - INFO - Fetching binance prices for NGN.
+2025-04-06 23:00:45,107 - INFO - No offers found for NGN on binance.
+2025-04-06 23:00:45,107 - INFO - Fetching binance prices for USD.
+2025-04-06 23:00:46,155 - INFO - binance USD BUY: 0.994 USD (≈0.994 USD), Merchant=P2P-bo
+2025-04-06 23:00:46,156 - INFO - binance USD SELL: 1.1 USD (≈1.100 USD), Merchant=Cambios-inter
+2025-04-06 23:00:46,156 - INFO - Fetching binance prices for EUR.
+2025-04-06 23:00:47,585 - INFO - binance EUR BUY: 0.915 EUR (≈1.005 USD), Merchant=CaptainCold
+2025-04-06 23:00:47,586 - INFO - binance EUR SELL: 0.96 EUR (≈1.054 USD), Merchant=Phoenix_Change
+2025-04-06 23:00:47,586 - INFO - Fetching binance prices for BRL.
+2025-04-06 23:00:48,794 - INFO - binance BRL BUY: 5.894 BRL (≈1.042 USD), Merchant=Sr_MENESES-3011
+2025-04-06 23:00:48,795 - INFO - binance BRL SELL: 5.884 BRL (≈1.040 USD), Merchant=MAVIC-CAMBIOS
+2025-04-06 23:00:48,795 - INFO - Fetching binance prices for KES.
+2025-04-06 23:00:50,061 - INFO - binance KES BUY: 129.39 KES (≈1.002 USD), Merchant=FOMO_Depot
+2025-04-06 23:00:50,062 - INFO - binance KES SELL: 134.6 KES (≈1.042 USD), Merchant=tiero
+2025-04-06 23:00:50,062 - INFO - Fetching binance prices for GBP.
+2025-04-06 23:00:51,378 - INFO - binance GBP BUY: 0.696 GBP (≈0.901 USD), Merchant=REZIG444
+2025-04-06 23:00:51,379 - INFO - binance GBP SELL: 0.869 GBP (≈1.124 USD), Merchant=-JOJO-FASTandPro
+2025-04-06 23:00:51,380 - INFO - Fetching binance prices for CAD.
+2025-04-06 23:00:52,974 - INFO - binance CAD BUY: 1.442 CAD (≈1.015 USD), Merchant=Servira
+2025-04-06 23:00:52,974 - INFO - binance CAD SELL: 1.425 CAD (≈1.003 USD), Merchant=CryptoExh
+2025-04-06 23:00:52,975 - INFO - Fetching binance prices for AUD.
+2025-04-06 23:00:54,335 - INFO - binance AUD BUY: 1.666 AUD (≈1.014 USD), Merchant=M-Verified-Trader
+2025-04-06 23:00:54,337 - INFO - binance AUD SELL: 1.98 AUD (≈1.205 USD), Merchant=FIKRI798
+2025-04-06 23:00:54,338 - INFO - Fetching paxful prices for NGN.
+2025-04-06 23:01:06,207 - INFO - patching driver executable C:\Users\hai\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 23:01:07,207 - INFO - Navigating to https://paxful.com/buy-tether/ to scrape BUY prices...
+2025-04-06 23:03:07,217 - ERROR - Error in get_best_prices: HTTPConnectionPool(host='localhost', port=51857): Read timed out. (read timeout=120)
+2025-04-06 23:03:07,513 - INFO - No offers found for NGN on paxful.
+2025-04-06 23:03:07,514 - INFO - Fetching paxful prices for USD.
+2025-04-06 23:03:15,075 - INFO - patching driver executable C:\Users\hai\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 23:03:15,888 - INFO - Navigating to https://paxful.com/buy-tether/ to scrape BUY prices...
+2025-04-06 23:05:15,904 - ERROR - Error in get_best_prices: HTTPConnectionPool(host='localhost', port=52039): Read timed out. (read timeout=120)
+2025-04-06 23:05:16,196 - INFO - No offers found for USD on paxful.
+2025-04-06 23:05:16,196 - INFO - Fetching paxful prices for EUR.
+2025-04-06 23:05:37,374 - INFO - patching driver executable C:\Users\hai\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 23:05:38,242 - INFO - Navigating to https://paxful.com/buy-tether/ to scrape BUY prices...
+2025-04-06 23:05:45,011 - INFO - Clicking country selection button...
+2025-04-06 23:05:45,017 - ERROR - Error in get_best_prices: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00C95413+60691]
+	GetHandleVerifier [0x00C95454+60756]
+	(No symbol) [0x00AC0693]
+	(No symbol) [0x00A9FBCE]
+	(No symbol) [0x00B33C4E]
+	(No symbol) [0x00B4DFF9]
+	(No symbol) [0x00B2CE56]
+	(No symbol) [0x00AFC5F3]
+	(No symbol) [0x00AFD444]
+	GetHandleVerifier [0x00EDBBC3+2446531]
+	GetHandleVerifier [0x00ED7198+2427544]
+	GetHandleVerifier [0x00EF2D5E+2541150]
+	GetHandleVerifier [0x00CAC3C5+154821]
+	GetHandleVerifier [0x00CB2BED+181485]
+	GetHandleVerifier [0x00C9CC48+91464]
+	GetHandleVerifier [0x00C9CDF0+91888]
+	GetHandleVerifier [0x00C87980+4736]
+	BaseThreadInitThunk [0x76395D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-04-06 23:05:45,119 - INFO - No offers found for EUR on paxful.
+2025-04-06 23:05:45,120 - INFO - Fetching paxful prices for BRL.
+2025-04-06 23:06:17,628 - INFO - patching driver executable C:\Users\hai\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 23:06:18,488 - INFO - Navigating to https://paxful.com/buy-tether/ to scrape BUY prices...
+2025-04-06 23:07:08,516 - INFO - Clicking country selection button...
+2025-04-06 23:07:08,523 - ERROR - Error in get_best_prices: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00495413+60691]
+	GetHandleVerifier [0x00495454+60756]
+	(No symbol) [0x002C0693]
+	(No symbol) [0x0029FBCE]
+	(No symbol) [0x00333C4E]
+	(No symbol) [0x0034DFF9]
+	(No symbol) [0x0032CE56]
+	(No symbol) [0x002FC5F3]
+	(No symbol) [0x002FD444]
+	GetHandleVerifier [0x006DBBC3+2446531]
+	GetHandleVerifier [0x006D7198+2427544]
+	GetHandleVerifier [0x006F2D5E+2541150]
+	GetHandleVerifier [0x004AC3C5+154821]
+	GetHandleVerifier [0x004B2BED+181485]
+	GetHandleVerifier [0x0049CC48+91464]
+	GetHandleVerifier [0x0049CDF0+91888]
+	GetHandleVerifier [0x00487980+4736]
+	BaseThreadInitThunk [0x76395D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-04-06 23:07:08,681 - INFO - No offers found for BRL on paxful.
+2025-04-06 23:07:08,681 - INFO - Fetching paxful prices for KES.
+2025-04-06 23:08:48,480 - INFO - Starting crypto P2P price comparison for arbitrage opportunities.
+2025-04-06 23:08:48,480 - INFO - Fetching binance prices for NGN.
+2025-04-06 23:08:50,183 - INFO - No offers found for NGN on binance.
+2025-04-06 23:08:50,185 - INFO - Fetching binance prices for USD.
+2025-04-06 23:08:51,621 - INFO - binance USD BUY: 0.994 USD (≈0.994 USD), Merchant=P2P-bo
+2025-04-06 23:08:51,622 - INFO - binance USD SELL: 1.1 USD (≈1.100 USD), Merchant=Cambios-inter
+2025-04-06 23:08:51,623 - INFO - Fetching binance prices for EUR.
+2025-04-06 23:08:53,191 - INFO - binance EUR BUY: 0.917 EUR (≈1.007 USD), Merchant=CoinClan - 大额交易
+2025-04-06 23:08:53,193 - INFO - binance EUR SELL: 0.96 EUR (≈1.054 USD), Merchant=Phoenix_Change
+2025-04-06 23:08:53,193 - INFO - Fetching binance prices for BRL.
+2025-04-06 23:08:56,526 - INFO - binance BRL BUY: 5.899 BRL (≈1.043 USD), Merchant=Sr_MENESES-3011
+2025-04-06 23:08:56,527 - INFO - binance BRL SELL: 5.884 BRL (≈1.040 USD), Merchant=AlphaTradingBrasil
+2025-04-06 23:08:56,528 - INFO - Fetching binance prices for KES.
+2025-04-06 23:08:58,747 - INFO - binance KES BUY: 129.35 KES (≈1.001 USD), Merchant=CoinTee
+2025-04-06 23:08:58,748 - INFO - binance KES SELL: 134.6 KES (≈1.042 USD), Merchant=tiero
+2025-04-06 23:08:58,749 - INFO - Fetching binance prices for GBP.
+2025-04-06 23:09:00,099 - INFO - binance GBP BUY: 0.696 GBP (≈0.901 USD), Merchant=REZIG444
+2025-04-06 23:09:00,099 - INFO - binance GBP SELL: 0.869 GBP (≈1.124 USD), Merchant=-JOJO-FASTandPro
+2025-04-06 23:09:00,100 - INFO - Fetching binance prices for CAD.
+2025-04-06 23:09:01,415 - INFO - binance CAD BUY: 1.438 CAD (≈1.013 USD), Merchant=Rate-Exchange
+2025-04-06 23:09:01,416 - INFO - binance CAD SELL: 1.424 CAD (≈1.003 USD), Merchant=Theempeeror
+2025-04-06 23:09:01,418 - INFO - Fetching binance prices for AUD.
+2025-04-06 23:09:02,590 - INFO - binance AUD BUY: 1.666 AUD (≈1.014 USD), Merchant=M-Verified-Trader
+2025-04-06 23:09:02,591 - INFO - binance AUD SELL: 1.98 AUD (≈1.205 USD), Merchant=FIKRI798
+2025-04-06 23:09:02,593 - INFO - Fetching okx prices for NGN.
+2025-04-06 23:10:11,389 - ERROR - Error in get_best_prices: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F9C41F55+78133]
+	GetHandleVerifier [0x00007FF6F9C41FB0+78224]
+	(No symbol) [0x00007FF6F9A091BA]
+	(No symbol) [0x00007FF6F9A5F19D]
+	(No symbol) [0x00007FF6F9A5F44C]
+	(No symbol) [0x00007FF6F9AB23D7]
+	(No symbol) [0x00007FF6F9A8719F]
+	(No symbol) [0x00007FF6F9AAF21F]
+	(No symbol) [0x00007FF6F9A86F33]
+	(No symbol) [0x00007FF6F9A50358]
+	(No symbol) [0x00007FF6F9A510C3]
+	GetHandleVerifier [0x00007FF6F9F0BA8D+3001453]
+	GetHandleVerifier [0x00007FF6F9F05E72+2977874]
+	GetHandleVerifier [0x00007FF6F9F2497D+3103581]
+	GetHandleVerifier [0x00007FF6F9C5C7EA+186826]
+	GetHandleVerifier [0x00007FF6F9C643FF+218591]
+	GetHandleVerifier [0x00007FF6F9C49D94+110452]
+	GetHandleVerifier [0x00007FF6F9C49F42+110882]
+	GetHandleVerifier [0x00007FF6F9C30379+5465]
+	BaseThreadInitThunk [0x00007FFB3CC8E8D7+23]
+	RtlUserThreadStart [0x00007FFB3D8314FC+44]
+
+2025-04-06 23:10:13,651 - INFO - No offers found for NGN on okx.
+2025-04-06 23:10:13,651 - INFO - Fetching okx prices for USD.
+2025-04-06 23:10:42,241 - INFO - Selected fiat currency: USD
+2025-04-06 23:10:47,303 - INFO - Clicked Buy tab
+2025-04-06 23:10:52,358 - INFO - Scraped 5 prices on page 1 for Buy
+2025-04-06 23:10:58,558 - INFO - Scraped 5 prices on page 2 for Buy
+2025-04-06 23:10:58,739 - INFO - Clicked Sell tab
+2025-04-06 23:11:03,761 - INFO - Scraped 5 prices on page 1 for Sell
+2025-04-06 23:11:09,976 - INFO - Scraped 5 prices on page 2 for Sell
+2025-04-06 23:11:10,061 - INFO - Data rows collected: [{'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.000 USD', 'Merchant': 'Satoshi_p2p', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.002 USD', 'Merchant': 'CloverSiS', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.003 USD', 'Merchant': 'Eminich', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.003 USD', 'Merchant': 'BONAQUA', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.004 USD', 'Merchant': 'TRUSTED~WiSE-T0-WiSE', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.004 USD', 'Merchant': 'ИВАН_СЕРГЕЕВИЧ', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.005 USD', 'Merchant': 'Viptrader_USDT', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.005 USD', 'Merchant': 'BMW-M5', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.005 USD', 'Merchant': 'Speedy_Global_Fast', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Buy', 'Price': '1.005 USD', 'Merchant': 'Superfast-Reliable', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.265 USD', 'Merchant': 'TimeLapse', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.260 USD', 'Merchant': 'MalikExchange', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.260 USD', 'Merchant': 'SPIDDER', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.260 USD', 'Merchant': 'WMSamara', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.255 USD', 'Merchant': 'BMW-M5', 'Page': 1}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.200 USD', 'Merchant': 'Z_A-SINDHI', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.160 USD', 'Merchant': 'ravicool', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.151 USD', 'Merchant': 'Z_A-SINDHI', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.151 USD', 'Merchant': '★Valiness★', 'Page': 2}, {'Currency': 'USD', 'PriceType': 'Sell', 'Price': '1.150 USD', 'Merchant': 'SPIDDER', 'Page': 2}]
+2025-04-06 23:11:12,325 - INFO - okx USD BUY: 1.0 USD (≈1.000 USD), Merchant=Satoshi_p2p
+2025-04-06 23:11:12,327 - INFO - okx USD SELL: 1.265 USD (≈1.265 USD), Merchant=TimeLapse
+2025-04-06 23:11:12,329 - INFO - Fetching okx prices for EUR.
+2025-04-06 23:11:19,067 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/02f3b864c4d33ef2f012411bd3fd4d13
+2025-04-06 23:11:23,163 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000197D68C9A30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/02f3b864c4d33ef2f012411bd3fd4d13
+2025-04-06 23:11:35,370 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000197D68CAA20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/02f3b864c4d33ef2f012411bd3fd4d13

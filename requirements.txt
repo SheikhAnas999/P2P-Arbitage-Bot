@@ -1,0 +1,5 @@
+requests==2.32.3
+selenium==4.29.0
+undetected-chromedriver==3.5.5
+setuptools==76.1.0
+
